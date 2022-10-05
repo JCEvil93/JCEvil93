@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Juan
+#### I am software developer wating to improve skills and become a super senior!!
+![I am software developer wating to improve skills and become a super senior!!](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-<!--
-**JCEvil93/JCEvil93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my GIT repository where I post projects with stuff I am learning, feel free to take a look
 
-Here are some ideas to get you started:
+Skills: Angular / .Net / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jcevil93)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jcevil93)](https://github.com/ryo-ma/github-profile-trophy)
+
