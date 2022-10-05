@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Juan
-#### I am software developer wating to improve skills and become a super senior!!
+#### I am software developer wanting to improve my skills and become a super senior!!
 ![I am software developer wating to improve skills and become a super senior!!](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
 This is my GIT repository where I post projects with stuff I am learning, feel free to take a look
